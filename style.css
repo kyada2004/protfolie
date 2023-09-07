@@ -209,7 +209,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("ayush.jpg") no-repeat
+    background: url("images/ayush.jpg") no-repeat
       top;
     height: 100vh;
     color: #fff;
